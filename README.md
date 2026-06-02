@@ -1,3 +1,11 @@
+Crédits traduction française :
+
+Tarta
+Eazeon
+X-Liner
+
+Description originale :
+
 *screams*
 
 
