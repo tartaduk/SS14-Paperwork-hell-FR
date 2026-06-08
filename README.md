@@ -1,7 +1,7 @@
-Crédits traduction française :
+Crédits traduction française et ajouts formulaires :
 
-Tarta
-Eazeon
+Tarta, 
+Eazeon, 
 X-Liner
 
 Description originale :
