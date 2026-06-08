@@ -1,0 +1,63 @@
+[color=#5b97bc]░░██░░ [head=2]Visite médicale d'aptitude au travail - Métiers intellectuels[/head]
+██████ 
+░░██░░ [/color]   Formulaire NT-454
+──────────────────────────────────────────
+[color=#aaaaaa]Ce formulaire est le compte-rendu d'un examen médical d'un employé concernant son aptitude à occuper le métier attribué à l'employé susnommé. Ce compte-rendu ne traite pas du reste de la santé, tant physique que mentale, de l'employé : par conséquent, l'équipe médicale ne pourra être reconnue coupable en cas de non-détection d'un trouble en dehors des limites de compétences du poste actuel de l'employé.[/color] 
+
+══════════════════════════════════════════
+
+[bold]Nom du médecin faisant l'examen :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+══════════════════════════════════════════
+
+[head=3]Informations sur le patient :[/head]
+
+[bold]Nom du patient :[/bold]
+    [color=#002AAF]"NOM"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Âge du patient :[/bold]
+    [color=#002AAF]"ÂGE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Genre du patient :[/bold]
+    [color=#002AAF]"GENRE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Espèce :[/bold]
+    [color=#002AAF]"ESPÈCE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+
+[head=3]Examen intellectuel :[/head]
+
+
+[bold]Caractéristiques psychologiques :[/bold]
+
+\[  ] Capacités cognitives de base
+    \[  ] Perception sensorielle
+    \[  ] Mémoire à court terme fonctionnelle 
+    \[  ] Période d'attention satisfaisante
+    \[  ] Maîtrise et compréhension de la langue
+
+
+[bold]Examen psychologique :[/bold]
+
+\[  ] Maîtrise des émotions
+\[  ] Présence d'une conscience
+\[  ] Existence d'une empathie
+
+
+══════════════════════════════════════════
+
+[head=3]Verdict :[/head]
+
+[color=#5b97bc][bold]Après examen, le patient est déclaré :[/bold][/color]
+
+\[  ] Apte
+\[  ] Inapte
+
+══════════════════════════════════════════
+
+[bold]Apposer la mention "Je certifie sur l'honneur l'exactitude des informations ci-dessus" :[/bold]
+    [color=#002AAF]"Mention :"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
